@@ -1,0 +1,11 @@
+{
+  "slug": "create2-vanity",
+  "name": "CREATE2 Vanity",
+  "kind": "evm",
+  "description": "Model deterministic EVM CREATE2 addresses and salt search difficulty.",
+  "chain": "EVM + Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
