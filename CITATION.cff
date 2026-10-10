@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "create2-vanity-txv1"
+abstract: "Generate deterministic EVM CREATE2 address searches and compare the artifact envelope with Solana transaction v1."
+repository-code: "https://github.com/nirholas/create2-vanity-txv1"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
