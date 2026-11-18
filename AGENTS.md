@@ -8,7 +8,7 @@ Generate deterministic EVM CREATE2 address searches and compare the artifact env
 
 - Source: https://github.com/nirholas/create2-vanity-txv1
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
